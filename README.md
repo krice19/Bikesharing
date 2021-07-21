@@ -1,5 +1,8 @@
 # Bikesharing
 
+[https://public.tableau.com/app/profile/kelly.rice6755/viz/CitiBike_Challenge_16267139846860/CitiBikeAnalysis?publish=yes](https://public.tableau.com/app/profile/kelly.rice6755/viz/CitiBike_Challenge_16267139846860/CitiBikeAnalysis?publish=yes"link to dashboard")
+
+
 ## Overview of Analysis
 
 This analysis uses Tablaeu to create visualizations on Citi Bike data for August 2019 in New York City.  With the data source, I first cleaned the data using Python and Jupyter Notebook to transform the trip duration column in datetime format, so I can use that data in my visualization.  After importing the data source in Tableau, I created 7 visualizations and added each one to my Tableau story on Citi Bike data.  
@@ -53,4 +56,4 @@ This horizontal bar graph shows at which times of day the most citi bike trips w
 
 ## Summary
 
-Overall the maps draw similar conclusions that commuting times are the most popular for timse for citi bike rides across both gender options, and that overeall, those who identify as Male are more fequent user.  The visualizations are may idnicate that subscribes take the most bike rides at commuitng time.  its telling that many people in new york use Citi Bike as a way to commute to thier job.  Those that do use Citi Bike as a transportation service are likely to be subscribeers to Citi Bike.  Citi bIke is a good invested for cities to ahve because it gives those an affordable communing option other than a local subway.  
+Overall the maps draw similar conclusions that commuting times are the most popular for timse for citi bike rides across both gender options, and that overeall, those who identify as Male are more fequent user.  The visualizations are may idnicate that subscribes take the most bike rides at commuitng time.  its telling that many people in new york use Citi Bike as a way to commute to thier job.  Those that do use Citi Bike as a transportation service are likely to be subscribeers to Citi Bike.  Citi bike is a good invested for cities to ahve because it gives those an affordable communing option other than a local subway.  Additional visualizations can be used to enhance this analysis.  One example of another visualization is using a graph to show which age groups are the most frequent users of citi bikes.  Another example of a visualization is using the station name column to see which station are most popular to citi bike trips to start. 
