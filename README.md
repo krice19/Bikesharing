@@ -47,7 +47,7 @@ This map shows the most popular starting locations for Citi Bike trips.  Circles
 ### Peak Startimes
 This horizontal bar graph shows at which times of day the most citi bike trips were taken in the month of August.  The most popular time was 5-6 pm, with 6-7pm coming in as the second most popular time.  The third most popular time is 8-9 am.  These three times being the most for trip rides indicate that many people use Citi Bikes to commute to work in New York.  
 <br/>
-![Peak_Starttime](/Peak_Starttime.png)
+![Peak_Starttime](Images/Peak_Starttime.png)
 
 
 
