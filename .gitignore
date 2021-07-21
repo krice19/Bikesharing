@@ -1,3 +1,8 @@
+# adding files for git ignore
+201908-citibike-tripdata.csv
+citi_bike_clean.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
