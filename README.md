@@ -1,6 +1,6 @@
 # Bikesharing
 
-[https://public.tableau.com/app/profile/kelly.rice6755/viz/CitiBike_Challenge_16267139846860/CitiBikeAnalysis?publish=yes](https://public.tableau.com/app/profile/kelly.rice6755/viz/CitiBike_Challenge_16267139846860/CitiBikeAnalysis?publish=yes"link to dashboard")
+[Link to Tableau Story here](https://public.tableau.com/app/profile/kelly.rice6755/viz/CitiBike_Challenge_16267139846860/CitiBikeAnalysis)
 
 
 ## Overview of Analysis
